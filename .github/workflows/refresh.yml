@@ -21,6 +21,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - run: python3 -m unittest test_mirror.py
       - run: python3 mirror.py
       - name: Retain the public snapshot and repository activity
         run: |

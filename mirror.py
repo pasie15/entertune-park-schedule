@@ -1,8 +1,9 @@
 import json, math, pathlib, time, urllib.request
 
 def validate(data, now):
+    if not isinstance(data,dict):raise ValueError('Invalid schedule object')
     stamp=data.get('generatedAt')
-    if data.get('schema')!=1 or isinstance(stamp,bool) or not isinstance(stamp,(int,float)) or not math.isfinite(stamp):
+    if type(data.get('schema')) is not int or data.get('schema')!=1 or isinstance(stamp,bool) or not isinstance(stamp,(int,float)) or not math.isfinite(stamp):
         raise ValueError('Invalid schedule schema or timestamp')
     if not -300 <= now-stamp <= 900:
         raise ValueError('Upstream schedule is stale or from the future')
