@@ -30,7 +30,18 @@ jobs:
           git add public
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh verified public show schedule'
-            git push
+            pushed=false
+            for attempt in 1 2 3; do
+              if git push; then
+                pushed=true
+                break
+              fi
+              if [ "$attempt" -lt 3 ]; then sleep 15; fi
+            done
+            if [ "$pushed" != true ]; then
+              echo 'Snapshot push failed after three attempts.' >&2
+              exit 1
+            fi
           fi
       - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
@@ -38,3 +49,4 @@ jobs:
           path: public
       - id: deployment
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e
+
