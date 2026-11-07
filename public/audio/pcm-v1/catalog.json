@@ -1,0 +1,91 @@
+{
+  "schema": 1,
+  "format": "EPPCM001",
+  "headerBytes": 64,
+  "tracks": [
+    {
+      "slot": 63,
+      "title": "EcoTrap - Cold Concrete Summer",
+      "frames": 3550080,
+      "channels": 2,
+      "frequency": 24000,
+      "seconds": 147.92,
+      "bytes": 28400704,
+      "sha256": "DDCED34870F382ACC38F7F746C5DBB305D831F7C6366BF7DED4A20032D87CEA4",
+      "payloadSHA256": "DA0C6C22994A8725FF4DAB0F756CB5AD4720F8E0864D081ADC86AFED47D2C487",
+      "sourceSHA256": "AD2DA046960FE2E2D81DC8D7CCBD4048FD9CE044E72371EBCFA6082DF944767B",
+      "headerBytes": "RVBQQ00wMDEBAAAAPwAAAIArNgACAAAAwF0AAABcsQGtLaBGlg/i4tgdyNfMvUBI/ZzgROcjcevPpggt+UR2ew==",
+      "url": "https://pasie15.github.io/entertune-park-schedule/audio/pcm-v1/ddced34870f382acc38f7f746c5dbb305d831f7c6366bf7ded4a20032d87cea4.eppcm"
+    },
+    {
+      "slot": 64,
+      "title": "Rose Light Reverie - Where the Dawn Comes to Stay",
+      "frames": 6546240,
+      "channels": 2,
+      "frequency": 24000,
+      "seconds": 272.76,
+      "bytes": 52369984,
+      "sha256": "479616F47666B10DAA0948ED8C5238E4012B2C46DC7A561C71598597E4AEB68B",
+      "payloadSHA256": "26554569C76393F0C28D2D2BC94853D7A2CF5632A2AD82000A113D7906FC5185",
+      "sourceSHA256": "82011BAB234333696BFE9976935BF34B959DBE108D0569A7FCA59C3F225A2AA7",
+      "headerBytes": "RVBQQ00wMDEBAAAAQAAAAEDjYwACAAAAwF0AAAAaHwOCARurI0MzaWv+mXaTW/NLlZ2+EI0Faaf8pZw/Iloqpw==",
+      "url": "https://pasie15.github.io/entertune-park-schedule/audio/pcm-v1/479616f47666b10daa0948ed8c5238e4012b2c46dc7a561c71598597e4aeb68b.eppcm"
+    },
+    {
+      "slot": 65,
+      "title": "Allan DT - Half Tide",
+      "frames": 5040000,
+      "channels": 2,
+      "frequency": 24000,
+      "seconds": 210.0,
+      "bytes": 40320064,
+      "sha256": "DCD541A8538E6A4B4670D8C6B4F170A66BD74EB984D4AEAFCDA922F6FC72EA3F",
+      "payloadSHA256": "9A1231D42D6B6920D586F77D297C7F2C1FBBFD35BF11F7D6FFC2E1525FED6075",
+      "sourceSHA256": "0A88A0A57D0D23D8B60710CC3D0D6BDEB2D3EA7140F5B64AF67A7D6F5704B476",
+      "headerBytes": "RVBQQ00wMDEBAAAAQQAAAIDnTAACAAAAwF0AAAA8ZwIKiKClfQ0j2LYHEMw9DWvestPqcUD1tkr2en1vVwS0dg==",
+      "url": "https://pasie15.github.io/entertune-park-schedule/audio/pcm-v1/dcd541a8538e6a4b4670d8c6b4f170a66bd74eb984d4aeafcda922f6fc72ea3f.eppcm"
+    },
+    {
+      "slot": 66,
+      "title": "Sofia Tune - Still Standing Saturday",
+      "frames": 5222400,
+      "channels": 2,
+      "frequency": 24000,
+      "seconds": 217.6,
+      "bytes": 41779264,
+      "sha256": "CF3D8076F9D8AEEEA83B6DA95C1E2FB312D7A3C5673E6E170BFC7AED33F85728",
+      "payloadSHA256": "2657091A75E3827B5C386726F6EEFDAA5C5CC015BB53713FDFE0316B27427D13",
+      "sourceSHA256": "F4183799B128F6A6CF34D7AB8FB6079B9FAC89A35100C9EF415BCF95E6CE8F03",
+      "headerBytes": "RVBQQ00wMDEBAAAAQgAAAACwTwACAAAAwF0AAACAfQL0GDeZsSj2ps8016uPtgebn6yJo1EAye9BW8+V5s6PAw==",
+      "url": "https://pasie15.github.io/entertune-park-schedule/audio/pcm-v1/cf3d8076f9d8aeeea83b6da95c1e2fb312d7a3c5673e6e170bfc7aed33f85728.eppcm"
+    },
+    {
+      "slot": 67,
+      "title": "Zara Tune - Letters I Never Sent",
+      "frames": 4320000,
+      "channels": 2,
+      "frequency": 24000,
+      "seconds": 180.0,
+      "bytes": 34560064,
+      "sha256": "ABFF633EF08BFA918E59B190C225B0176EA23C7D4AF821A1F184031787389F64",
+      "payloadSHA256": "33F7897F56CF555C758BB2236E2E4187BC3ACDC0AFB6E78FED7CCDB7ADA508EA",
+      "sourceSHA256": "B0D6AC136F13642D56F06B1634DCDC2EC65EFE2AFF9D5DDD879A035B6E561945",
+      "headerBytes": "RVBQQ00wMDEBAAAAQwAAAADrQQACAAAAwF0AAABYDwKw1qwTbxNkLVbwaxY03Nwuxl7+Kv+dXd2HmgNbblYZRQ==",
+      "url": "https://pasie15.github.io/entertune-park-schedule/audio/pcm-v1/abff633ef08bfa918e59b190c225b0176ea23c7d4af821a1f184031787389f64.eppcm"
+    },
+    {
+      "slot": 68,
+      "title": "Ken Tune - Coastline Afterglow",
+      "frames": 4970880,
+      "channels": 2,
+      "frequency": 24000,
+      "seconds": 207.12,
+      "bytes": 39767104,
+      "sha256": "1BCA8EA8053DD100AAE22C1DC5797E1B99310910451CFFEC52C3102860E9E853",
+      "payloadSHA256": "5138485D5F7C5E4391AA9A3DE2ECFB7763543B24DFB9FD8504588137EBE45A51",
+      "sourceSHA256": "2B3AE74C24C01D11CC5B35E8E0885488354232F5C3B68FAA9B75F8C649296068",
+      "headerBytes": "RVBQQ00wMDEBAAAARAAAAIDZSwACAAAAwF0AAADMXgIrOudMJMAdEcxbNejgiFSINUIy9cO2j6qbdfjGSSlgaA==",
+      "url": "https://pasie15.github.io/entertune-park-schedule/audio/pcm-v1/1bca8ea8053dd100aae22c1dc5797e1b99310910451cffec52c3102860e9e853.eppcm"
+    }
+  ]
+}
