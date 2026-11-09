@@ -1,52 +1,12 @@
 {
   "schema": 1,
-  "week": "2026-11-02",
-  "generatedAt": 1794063274.981689,
+  "week": "2026-11-09",
+  "generatedAt": 1794233801.843621,
   "limit": 12,
   "tracks": [
     {
-      "slot": 26,
-      "key": "ellacoustic:stayinthehush",
-      "act": 0
-    },
-    {
-      "slot": 5,
-      "key": "ellacoustic:crossedlines",
-      "act": 0
-    },
-    {
       "slot": 45,
       "key": "ellacoustic:stringsandcitylights",
-      "act": 0
-    },
-    {
-      "slot": 7,
-      "key": "ellacoustic:prettygirlenergy",
-      "act": 0
-    },
-    {
-      "slot": 6,
-      "key": "ellacoustic:nothingleftbehind",
-      "act": 0
-    },
-    {
-      "slot": 0,
-      "key": "ellacoustic:midnightvibez",
-      "act": 0
-    },
-    {
-      "slot": 8,
-      "key": "ellacoustic:upallnight",
-      "act": 0
-    },
-    {
-      "slot": 53,
-      "key": "ellacoustic:onelampon",
-      "act": 0
-    },
-    {
-      "slot": 60,
-      "key": "ellacoustic:stayforthethirdverse",
       "act": 0
     },
     {
@@ -55,9 +15,44 @@
       "act": 0
     },
     {
-      "slot": 67,
-      "key": "zaratune:lettersineversent",
-      "act": 1
+      "slot": 5,
+      "key": "ellacoustic:crossedlines",
+      "act": 0
+    },
+    {
+      "slot": 53,
+      "key": "ellacoustic:onelampon",
+      "act": 0
+    },
+    {
+      "slot": 6,
+      "key": "ellacoustic:nothingleftbehind",
+      "act": 0
+    },
+    {
+      "slot": 8,
+      "key": "ellacoustic:upallnight",
+      "act": 0
+    },
+    {
+      "slot": 7,
+      "key": "ellacoustic:prettygirlenergy",
+      "act": 0
+    },
+    {
+      "slot": 26,
+      "key": "ellacoustic:stayinthehush",
+      "act": 0
+    },
+    {
+      "slot": 0,
+      "key": "ellacoustic:midnightvibez",
+      "act": 0
+    },
+    {
+      "slot": 60,
+      "key": "ellacoustic:stayforthethirdverse",
+      "act": 0
     },
     {
       "slot": 1,
@@ -65,18 +60,8 @@
       "act": 1
     },
     {
-      "slot": 50,
-      "key": "zaratune:mareaneon",
-      "act": 1
-    },
-    {
-      "slot": 58,
-      "key": "zaratune:fuegoblanco",
-      "act": 1
-    },
-    {
-      "slot": 13,
-      "key": "zaratune:lostandfound",
+      "slot": 67,
+      "key": "zaratune:lettersineversent",
       "act": 1
     },
     {
@@ -85,19 +70,24 @@
       "act": 1
     },
     {
-      "slot": 47,
-      "key": "zaratune:voltajerojo",
+      "slot": 50,
+      "key": "zaratune:mareaneon",
       "act": 1
     },
     {
-      "slot": 41,
-      "key": "sofiatune:giftsididntwrap",
-      "act": 2
+      "slot": 13,
+      "key": "zaratune:lostandfound",
+      "act": 1
     },
     {
-      "slot": 12,
-      "key": "sofiatune:saltwatergroove",
-      "act": 2
+      "slot": 58,
+      "key": "zaratune:fuegoblanco",
+      "act": 1
+    },
+    {
+      "slot": 47,
+      "key": "zaratune:voltajerojo",
+      "act": 1
     },
     {
       "slot": 57,
@@ -110,29 +100,19 @@
       "act": 2
     },
     {
-      "slot": 66,
-      "key": "sofiatune:stillstandingsaturday",
+      "slot": 41,
+      "key": "sofiatune:giftsididntwrap",
       "act": 2
     },
     {
-      "slot": 3,
-      "key": "allandt:magic",
-      "act": 3
+      "slot": 12,
+      "key": "sofiatune:saltwatergroove",
+      "act": 2
     },
     {
-      "slot": 39,
-      "key": "allandt:lanterntide",
-      "act": 3
-    },
-    {
-      "slot": 48,
-      "key": "allandt:canesmoke",
-      "act": 3
-    },
-    {
-      "slot": 38,
-      "key": "allandt:velvetweather",
-      "act": 3
+      "slot": 66,
+      "key": "sofiatune:stillstandingsaturday",
+      "act": 2
     },
     {
       "slot": 61,
@@ -140,13 +120,8 @@
       "act": 3
     },
     {
-      "slot": 65,
-      "key": "allandt:halftide",
-      "act": 3
-    },
-    {
-      "slot": 36,
-      "key": "allandt:goodtimes",
+      "slot": 3,
+      "key": "allandt:magic",
       "act": 3
     },
     {
@@ -160,13 +135,48 @@
       "act": 3
     },
     {
+      "slot": 65,
+      "key": "allandt:halftide",
+      "act": 3
+    },
+    {
+      "slot": 38,
+      "key": "allandt:velvetweather",
+      "act": 3
+    },
+    {
+      "slot": 48,
+      "key": "allandt:canesmoke",
+      "act": 3
+    },
+    {
       "slot": 46,
       "key": "allandt:warmdecember",
       "act": 3
     },
     {
+      "slot": 39,
+      "key": "allandt:lanterntide",
+      "act": 3
+    },
+    {
+      "slot": 36,
+      "key": "allandt:goodtimes",
+      "act": 3
+    },
+    {
       "slot": 4,
       "key": "ecotrap:growingupinthestreets",
+      "act": 4
+    },
+    {
+      "slot": 24,
+      "key": "ecotrap:cementhalo",
+      "act": 4
+    },
+    {
+      "slot": 63,
+      "key": "ecotrap:coldconcretesummer",
       "act": 4
     },
     {
@@ -180,33 +190,18 @@
       "act": 4
     },
     {
-      "slot": 63,
-      "key": "ecotrap:coldconcretesummer",
-      "act": 4
-    },
-    {
       "slot": 55,
       "key": "ecotrap:truckroute",
       "act": 4
     },
     {
-      "slot": 24,
-      "key": "ecotrap:cementhalo",
-      "act": 4
+      "slot": 52,
+      "key": "kentune:dashboardsunrise",
+      "act": 5
     },
     {
       "slot": 27,
       "key": "kentune:dancewithyoutonight",
-      "act": 5
-    },
-    {
-      "slot": 10,
-      "key": "kentune:midnightbytheriver",
-      "act": 5
-    },
-    {
-      "slot": 59,
-      "key": "kentune:coastlinehalos",
       "act": 5
     },
     {
@@ -215,8 +210,28 @@
       "act": 5
     },
     {
-      "slot": 11,
-      "key": "kentune:sunriseonthecoast",
+      "slot": 68,
+      "key": "kentune:coastlineafterglow",
+      "act": 5
+    },
+    {
+      "slot": 59,
+      "key": "kentune:coastlinehalos",
+      "act": 5
+    },
+    {
+      "slot": 9,
+      "key": "kentune:midnightdrive",
+      "act": 5
+    },
+    {
+      "slot": 10,
+      "key": "kentune:midnightbytheriver",
+      "act": 5
+    },
+    {
+      "slot": 44,
+      "key": "kentune:midnightsnow",
       "act": 5
     },
     {
@@ -235,38 +250,13 @@
       "act": 5
     },
     {
-      "slot": 52,
-      "key": "kentune:dashboardsunrise",
-      "act": 5
-    },
-    {
-      "slot": 9,
-      "key": "kentune:midnightdrive",
-      "act": 5
-    },
-    {
-      "slot": 68,
-      "key": "kentune:coastlineafterglow",
-      "act": 5
-    },
-    {
-      "slot": 44,
-      "key": "kentune:midnightsnow",
+      "slot": 11,
+      "key": "kentune:sunriseonthecoast",
       "act": 5
     },
     {
       "slot": 18,
       "key": "roselightreverie:citysheart",
-      "act": 6
-    },
-    {
-      "slot": 64,
-      "key": "roselightreverie:wherethedawncomestostay",
-      "act": 6
-    },
-    {
-      "slot": 37,
-      "key": "roselightreverie:petalsonthewarmth",
       "act": 6
     },
     {
@@ -277,6 +267,16 @@
     {
       "slot": 40,
       "key": "roselightreverie:sixofusonelongnight",
+      "act": 6
+    },
+    {
+      "slot": 37,
+      "key": "roselightreverie:petalsonthewarmth",
+      "act": 6
+    },
+    {
+      "slot": 64,
+      "key": "roselightreverie:wherethedawncomestostay",
       "act": 6
     }
   ],
